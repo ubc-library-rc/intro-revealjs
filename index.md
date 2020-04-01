@@ -1,5 +1,5 @@
 ---
  layout: default
- title: Title of page
+ title: Introduction to simple HTML presentations with Reveal.js
  nav_order: 1
- ---
+---
