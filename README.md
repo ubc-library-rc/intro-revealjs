@@ -2,7 +2,7 @@
  ### UBC Library Research Commons
  Link to workshop: https://ubc-library-rc.github.io/present-with-revealjs
 
- ##### This workshop uses a Reveal.js template for UBC presentations
+ ### This workshop uses a Reveal.js template for UBC presentations
 
  This template uses all the default functionality that comes with the core [Reveal.js](https://github.com/hakimel/reveal.js/) library, but with a single <code>ubc.css</code> style sheet. The remaining themed stylesheets have been removed.
 
